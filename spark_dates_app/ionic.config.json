@@ -1,0 +1,7 @@
+{
+  "name": "spark_dates_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
